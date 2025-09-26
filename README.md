@@ -1,12 +1,27 @@
-# React + Vite
+# Simple timer 😄
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## features
+- you can enter seconds 0-60 and then start
+- you can stop timer
+- you can reset timer
 
-Currently, two official plugins are available:
+## how to use
+1.clone the project
+```
+git clone https://github.com/AlirezaAz2700/simple-timer.git
+cd simple-timer
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2.install packages
+```
+npm i
+```
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3.run project
+```
+npm run dev
+```
+or
+```
+npm run build
+```
