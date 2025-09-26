@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Thin.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-ExtraLight.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Light.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Regular.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Medium.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-SemiBold.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Bold.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-ExtraBold.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "estedad";
+    src: url("/fonts/estedad/woff2/Estedad-Black.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 900;
+}

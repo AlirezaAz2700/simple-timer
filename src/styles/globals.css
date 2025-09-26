@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "./font.css";
+
+@theme {
+    --font-farsi : "estedad";
+}
